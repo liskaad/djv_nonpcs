@@ -1,4 +1,4 @@
-# DJV Non-PCs
+# DJV No-NPCs
 
 A simple FiveM script that removes all NPCs from the map.
 
